@@ -1,0 +1,10 @@
+﻿{
+  "header": "main header",
+  "th": [ "Column 1", "Column 2", "Column 3" ],
+  "rows": [
+    [ "Row 1 Data 1", "kjhgfds 1 Data 2", "Row 1 Data 3" ],
+    [ "Row  2 Data 1", "Row 2 Data 2", "Row 2 Data 3" ],
+    [ "Row 3 Data 1", "Row 3 Data 2", "Row 3 Data 3" ],
+    [ "Row 3 Data 1", "Row 3 Data 2", "Row 3 Data 3" ]
+  ]
+}
